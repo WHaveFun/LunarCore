@@ -30,7 +30,7 @@ private func i18n(_ key: String?) -> String {
  *
  *  @return text
  */
-private func $(_ text: String?) -> String {
+private func `$`(_ text: String?) -> String {
     return (text != nil ? text! : "")
 }
 

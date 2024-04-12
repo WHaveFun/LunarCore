@@ -8,6 +8,6 @@
 
 import Foundation
 
-let lunarCalendar = LunarCore().calendar(2017, 1)
+let lunarCalendar = LunarCore().calendar(2023, 3)
 print("lunar - \(lunarCalendar)")
 
