@@ -1127,4 +1127,3 @@ extension Array {
         return (0..<count).contains(index) ? self[index] : nil
     }
 }
-
